@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>ZFDM | Dashboard</title>
+  <title>Kenna Metal | Dashboard</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -62,7 +62,7 @@
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
 
-<div class="row">
+<!-- <div class="row">
 <div class="col-md-12 text-right">
   <br/>
   <select class="noprint" onchange='window.location.replace("{{url('greeting')}}/"+$(this).val())'>
@@ -71,7 +71,7 @@
   </select>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
 </div>
-</div>
+</div> -->
   @yield('content')
 
     <!-- Content Header (Page header) -->

@@ -2,7 +2,7 @@
 
 return [
 
-    'Super Admin' => 'Super Admin',
+    'Admin' => 'Admin',
     'Inbound' => 'InBound',
     'OutBound' => 'OutBound',
     'create_user' => 'Create User',
