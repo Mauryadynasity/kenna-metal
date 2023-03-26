@@ -1,0 +1,2 @@
+INSERT INTO `admin` (`id`, `name`, `email`, `phone`, `sim_id`, `password`, `salt`, `lang`, `role_id`, `created_at`, `updated_at`, `deleted_at`) VALUES
+(1, 'Super Admin', 'admin@gmail.com', '1212121212', NULL, '$2y$10$cLRRc0f7MD/H.0u.Cd7LmO.p2szT.Ius9LNv3B7NaM.CcMJMtBRg6', NULL, NULL, 1, '2023-02-26 05:42:58', '2023-02-26 05:42:58', NULL);
